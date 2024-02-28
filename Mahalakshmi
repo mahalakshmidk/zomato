@@ -1,0 +1,4 @@
+print ("HRLLO WORLD")
+i=9
+for i in range(i):
+  print(i)
